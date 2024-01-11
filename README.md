@@ -13,6 +13,3 @@ Thiago Rodrigues
 Gustavo
 
 
-PREPARANDO AMBIENTE 
-%%bash
-rm -r /content/sample_data/
